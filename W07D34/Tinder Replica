@@ -1,0 +1,20 @@
+We will design a dating app without any photos. 
+In this app, users will match based on the details and interests provided by users.
+
+
+Below are the functionalities of the application:
+
+Users should be able to register on the application.
+
+Registration Fields: Full Name, Date of birth, Phone Number, Email, Tagline, About, Gender, 
+                     Preference - Male, Female, Both and 
+                     Interests from these options: Food, Cricket, Art, Reading, Travelling, Bikes, Cars.
+                     
+                     
+Login using your phone number and password.
+
+After login, the app will show a profile based on your interests and preference. 
+There will be an option to match or skip.
+
+On match, show message. "Request Sent"
+On skip, show another profile.

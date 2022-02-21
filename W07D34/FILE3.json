@@ -1,0 +1,24 @@
+{
+    "id": 0,
+    "guid": "84512477-fa49-456b-b407-581d0d851c3c",
+    "isActive": true,
+    "tags": [
+        "nisi",
+        "culpa",
+        "ad",
+        "amet",
+        "voluptate",
+        "reprehenderit",
+        "veniam"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Martha Rivera"
+        },
+        {
+            "id": 1,
+            "name": "Renaldo"
+        }
+    ]
+}
