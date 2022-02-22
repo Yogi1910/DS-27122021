@@ -1,0 +1,48 @@
+We will build a basic replica of Amazon, the e-commerce application.
+
+The application will support two roles:
+
+Seller
+Customer
+
+
+Seller will have the following functionalities:
+
+
+
+Register and log in to the application.
+
+On login, these menu options will be available: Create Product, Update Product, View Product, Delete Product
+
+Create Product option will create a new product with the following information: Product Name, Manufacturer Name, Price, Quantity. For eg, 1piece, 200gm, 1.3litre, etc, Stock. Total remaining products in the stock.
+
+Update product will update the product using the ProductID
+
+View product will show the product using the ProductID
+
+Delete product will delete the product using the ProductID
+
+
+
+
+
+
+
+The customer will have the following functionalities:
+
+Register and log in to the application
+
+Registration will require the following information: Full Name, Contact Number, Email, Address
+
+On login, these menu items will be available: New Order, Order History, Cancel Order
+
+New Order will show a list of products and the user will enter an array of product IDs to select the product(s). For eg,
+ID: 1; Apple iPad Pro 11in; Price: INR 80000; 1piece
+ID: 2; Apple Airpods; Price: INR 22,000; 1 piece
+ID:3; Playstation 5; Price: INR 49,999; 1 piece
+
+If user wants to select Apple iPad and Apple Airpods then input will be [1, 2]
+
+Order History will show the list of past orders.
+
+Cancel order will cancel orders based on OrderID.
